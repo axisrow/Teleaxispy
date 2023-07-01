@@ -9,7 +9,7 @@ setup(
     author='axisrow',
     author_email='axisrow@gmail.com',
     license='MIT',
-    packages=['Teleaxispy'],
+    py_modules=['teleaxispy'],
     install_requires=[
         'requests',
     ],
